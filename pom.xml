@@ -6,8 +6,7 @@
 
   <groupId>com.qa</groupId>
   <artifactId>hello-maven-rajarajan</artifactId>
-  <version>2.1version>
-
+  <version>2.1</version>
   <name>hello-maven-rajarajan</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
